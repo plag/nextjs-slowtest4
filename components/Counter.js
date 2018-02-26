@@ -21,7 +21,7 @@ class Counter extends Component {
   render() {
     return (
       <div>
-        <div>CounterNext: { this.props.counter }</div>
+        <div>NextJS 4.2.3 Counter: { this.props.counter }</div>
         <button type="button" onClick={ this.props.increment }>Inc</button>
       </div>
     )
