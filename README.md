@@ -3,7 +3,7 @@ NextJS Speedtest v4.2.3
 
 Run:
 1) `yarn install`
-2) `yarn run dev
+2) `yarn run dev`
 
 Results:
 
